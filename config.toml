@@ -1,0 +1,9 @@
+baseURL = "http://boxcounter.com/"
+languageCode = "zh-cn"
+title = "Boxcounter's blog"
+theme = "yinyang"
+googleAnalytics = "UA-1017426-4"
+
+[author]
+  name = "Boxcounter"
+  homepage = "http://boxcounter.com/"

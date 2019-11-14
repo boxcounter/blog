@@ -1,0 +1,7 @@
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = https://github.com/joway/hugo-theme-yinyang.git
+[submodule "public"]
+	path = public
+	url = https://github.com/boxcounter/boxcounter.github.io.git
+	branch = master
