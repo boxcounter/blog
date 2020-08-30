@@ -5,10 +5,10 @@ category        : "读书"
 isCJKLanguage   : true
 ---
 
-## 书籍封面
+## 图书封面
 
 {{< rawhtml >}}
-<img src="/images/2020-08-30/Management-Cover.jpg"/>
+<img src="/images/2020-08-30/Management-Cover.jpg" width="60%"/>
 {{< /rawhtml >}}
 
 ## 笔记片段
