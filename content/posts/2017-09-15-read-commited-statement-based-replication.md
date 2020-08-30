@@ -9,7 +9,7 @@ isCJKLanguage   : true
 
 # 疑问
 
-在MySQL的[Transaction Isolation Level] (https://dev.mysql.com/doc/refman/5.7/en/innodb-transaction-isolation-levels.html)文档里读到这么一句话：
+在MySQL的[Transaction Isolation Level](https://dev.mysql.com/doc/refman/5.7/en/innodb-transaction-isolation-levels.html)文档里读到这么一句话：
 
 > If you use READ COMMITTED, you must use row-based binary logging.
 
