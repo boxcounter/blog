@@ -13,11 +13,15 @@ isCJKLanguage   : true
 
 与上述文字相比，我更喜欢用的图和伪码来描述。来看一下最常见的依赖关系：直接依赖 —— 依赖于具体实现。如下图一：
 
+{{< rawhtml >}}
 <img src="/images/2019-06-02/01.png"/>
+{{< /rawhtml >}}
 
 而 DIP 更推荐下图二这种结构：间接依赖 —— 依赖于抽象接口。
 
+{{< rawhtml >}}
 <img src="/images/2019-06-02/02.png"/>
+{{< /rawhtml >}}
 
 伪码和之前几乎一样，但依赖关系发生了变化：Foo 依赖于同包的接口 Bar，而不是另一个包的实现类。这样做的实质是分离了依赖关系和调用关系：
 
@@ -28,7 +32,9 @@ isCJKLanguage   : true
 
 我们来看一个常见的业务场景：后端响应用户的登录请求。结构如下图三：
 
+{{< rawhtml >}}
 <img src="/images/2019-06-02/03.png"/>
+{{< /rawhtml >}}
 
 在实现时，我们将结构分为两层：
 
@@ -45,7 +51,9 @@ isCJKLanguage   : true
 
 方案一：修改 UserRepository 类，让它在负责操作 MySQL 之外也负责操作 Redis。如图四：
 
+{{< rawhtml >}}
 <img src="/images/2019-06-02/04.png"/>
+{{< /rawhtml >}}
 
 这样的好处是应用层代码不需要修改，技术变更被控制在负责技术实现的基础设施层。
 
@@ -63,7 +71,9 @@ isCJKLanguage   : true
 
 方案二：增加 UserCache 类，专门负责操作 Redis。如下图五：
 
+{{< rawhtml >}}
 <img src="/images/2019-06-02/05.png"/>
+{{< /rawhtml >}}
 
 这样的解决了方案一的缺点：他将方案一中提到的三种职责分到了三个不同的地方：
 
@@ -79,13 +89,17 @@ isCJKLanguage   : true
 
 我们先看看引入 Redis 前的结构，如图六。
 
+{{< rawhtml >}}
 <img src="/images/2019-06-02/06.png"/>
+{{< /rawhtml >}}
 
 此时 UserApplicationService 依赖的是 UserRepository 这个抽象接口（而非具体实现类），而 MySQLUserRepository 则实现了这个抽象接口。
 
 引入 Redis 后结构会变成图七的样子。
 
+{{< rawhtml >}}
 <img src="/images/2019-06-02/07.png"/>
+{{< /rawhtml >}}
 
 这个结构同时囊括了前述两个方案的优点：
 

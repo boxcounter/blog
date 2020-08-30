@@ -9,7 +9,9 @@ isCJKLanguage   : true
 
 在使用LinearLayout+TextView的过程中遇到一个看似诡异的问题，显示效果如下：
 
+{{< rawhtml >}}
 <img src="/images/2015-09-01/baselineAligned.png" width="300"/>
+{{< /rawhtml >}}
 
 其中两个灰色方块是使用代码动态创建的TextView。它们的父LinearLayout是这样的：
 
