@@ -15,10 +15,16 @@ isCJKLanguage   : true
 
 全书一共 18 章，笔记量很大。
 
-这里只展示第 17 章的笔记片段。文末有完整笔记的链接。
+这里只展示第 16 章的笔记片段。文末有完整笔记的链接。
 
 {{< rawhtml >}}
-<img src="/images/2020-08-30/Management-Notes-Chapter17.webp"/>
+<picture>
+  <source srcset="/images/2020-08-30/Management-Notes-Chapter16.webp" type="image/webp">
+  <source srcset="/images/2020-08-30/Management-Notes-Chapter16.jpg" type="image/jpg">
+  <img src="/images/2020-08-30/Management-Notes-Chapter16.jpg">
+</picture>
+
+<!-- <img src="/images/2020-08-30/Management-Notes-Chapter17.webp"/> -->
 {{< /rawhtml >}}
 
 ## 完整笔记
