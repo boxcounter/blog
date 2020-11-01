@@ -20,11 +20,8 @@ isCJKLanguage   : true
 {{< rawhtml >}}
 <picture>
   <source srcset="/images/2020-08-30/Management-Notes-Chapter16.webp" type="image/webp">
-  <source srcset="/images/2020-08-30/Management-Notes-Chapter16.jpg" type="image/jpg">
   <img src="/images/2020-08-30/Management-Notes-Chapter16.jpg">
 </picture>
-
-<!-- <img src="/images/2020-08-30/Management-Notes-Chapter17.webp"/> -->
 {{< /rawhtml >}}
 
 ## 完整笔记
