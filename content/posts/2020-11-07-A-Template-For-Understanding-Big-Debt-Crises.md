@@ -27,7 +27,7 @@ isCJKLanguage   : true
 
 全书近 500 页，这前两部分加在一起大概 280 页，是本书的核心内容，费脑子的也就是这些内容。
 
-剩余约莫 200页是第三部分“48 个案例研究概要”，内容是作者研究各国债务危机的材料堆砌，速读即可。
+剩余约莫 200 页是第三部分“48 个案例研究概要”，内容是作者研究各国债务危机的材料堆砌，速读即可。
 
 ## 片段
 
@@ -40,7 +40,7 @@ isCJKLanguage   : true
 > ……  
 > 战争结束，进入债务偿还期。债务和战争（无论胜败）会带来巨大的市场后果。对一个国家及其领导人来说，最坏的结果莫过于既背负了沉重的债务负担，同时又战败了。所以，千万别陷入这种境地，一战后的德国和二战后的德国和日本就是前车之鉴。
 
-第 202页 讲 2008 年美国次贷危机：
+第 202 页讲 2008 年美国次贷危机：
 
 > “道德风险”是美联储（和财政部）在整个危机期间多次遇到的难题。在重大债务危机期间，如何处理道德风险问题是决定危机演变的最主要因素之一。
 > 
@@ -50,8 +50,8 @@ isCJKLanguage   : true
 
 ## 纪录片
 
-* 《天启：第一次世界大战》：[B站链接](https://www.bilibili.com/bangumi/media/md28222514)
-* 《天启：希特勒的崛起》：[B站链接](https://www.bilibili.com/bangumi/media/md28222256)
-* 《天启：凡尔登战役》：[B站链接](https://www.bilibili.com/bangumi/media/md28220542)
-* 《天启：第二次世界大战》：[B站链接](https://www.bilibili.com/bangumi/media/md28220541/?from=search&seid=14853864496953732835)
+* 《天启：第一次世界大战》：[B 站链接](https://www.bilibili.com/bangumi/media/md28222514)
+* 《天启：希特勒的崛起》：[B 站链接](https://www.bilibili.com/bangumi/media/md28222256)
+* 《天启：凡尔登战役》：[B 站链接](https://www.bilibili.com/bangumi/media/md28220542)
+* 《天启：第二次世界大战》：[B 站链接](https://www.bilibili.com/bangumi/media/md28220541/?from=search&seid=14853864496953732835)
 * 《监守自盗 Inside Job》
