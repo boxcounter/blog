@@ -4,6 +4,15 @@ title = "Boxcounter's blog"
 theme = "yinyang"
 googleAnalytics = "UA-1017426-4"
 
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  extensions = ["hardLineBreak"]
+
 [author]
   name = "Boxcounter"
   homepage = "http://boxcounter.com/"
+
+#[params]
+#disqus = "boxcounter"
