@@ -16,3 +16,12 @@ googleAnalytics = "UA-1017426-4"
 
 #[params]
 #disqus = "boxcounter"
+
+[markup]
+  [markup.highlight]
+    style = 'manni'
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
