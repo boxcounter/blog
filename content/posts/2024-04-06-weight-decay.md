@@ -22,4 +22,6 @@ isCJKLanguage   : true
 1. 如前所述，如果 weights 中的部份值很大，那么 model 会对那部份对应的 feature 特别敏感，这种敏感会让 model 更容易 overfit。那么我们就让 weights 的值更均衡，避免一部份值很大，另一部份很小。
 2. 越复杂的 model 越容易 overfit。而衡量 model 复杂度的方法之一是 norm。其中 L2 norm 正好能识别上一条所描述的 weights 值不均衡的现象。
 
-综合一下，就选中了 L2 norm。这也是 Weight Decay 之所以能缓解 overfitting 的大致原理。
+综合一下，就选中了 L2 norm。
+
+总结：缓解 overfitting 的关键是降低 model 的复杂度。影响复杂度的几个关键属性中，最易着手的、最易控制力度的是 weights。这是 Weight Decay 之所以能缓解 overfitting 的大致原理。
