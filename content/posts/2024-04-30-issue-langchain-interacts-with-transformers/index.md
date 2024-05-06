@@ -142,5 +142,5 @@ LangChain 提供给 Transformers 的 text_inputs 是这样的：
 2. 提供符合 Transformers 需要的 prompt 格式，比如上面提到的`list[dict]`，由 Transformers 在其内部调用`tokenizer.apply_chat_template`。
 
 如果你对为什么`tokenizer.apply_chat_template`这么关键感到好奇，可以阅读这两篇文章：
-1. https://huggingface.co/docs/Transformers/chat_templating
+1. https://huggingface.co/docs/transformers/chat_templating
 2. https://huggingface.co/blog/chat-templates
