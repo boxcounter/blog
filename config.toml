@@ -14,14 +14,24 @@ googleAnalytics = "UA-1017426-4"
   name = "Boxcounter"
   homepage = "http://boxcounter.com/"
 
-#[params]
-#disqus = "boxcounter"
+[params]
+  math = true
+  #disqus = "boxcounter"
 
 [markup]
   [markup.highlight]
     style = 'manni'
     tabWidth = 4
+
   [markup.tableOfContents]
     endLevel = 3
     ordered = false
     startLevel = 2
+
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
