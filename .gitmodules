@@ -5,3 +5,12 @@
 	path = public
 	url = https://github.com/boxcounter/boxcounter.github.io.git
 	branch = master
+[submodule "themes/hugo-simple"]
+	path = themes/hugo-simple
+	url = https://github.com/maolonglong/hugo-simple.git
+[submodule "themes/typo"]
+	path = themes/typo
+	url = https://github.com/tomfran/typo.git
+[submodule "themes/hugo-kiera"]
+	path = themes/hugo-kiera
+	url = https://github.com/funkydan2/hugo-kiera.git
