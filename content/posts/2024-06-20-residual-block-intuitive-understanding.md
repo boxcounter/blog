@@ -52,3 +52,10 @@ isCJKLanguage   : true
 研究者实践发现，残差块有效地改善了深层神经网络的学习过程，提升了它们的性能。这让构建更深度的神经网络（比如百层甚至千层）成为可能。
 
 因此，残差块这个设计理念对后续深度神经网络的构建产生了深远的影响。
+
+## 五、学习资料
+
+1. 残差设计者何恺明的学术报告：[B 站](https://www.bilibili.com/video/BV1Zz421B7Vf/) 和 [油管](https://www.youtube.com/watch?v=jEeL5Gf4vkk)（正片从 19:30 开始）。
+2. 《Dive into Deep Learning》的 [8.6. Residual Networks (ResNet) and ResNeXt](https://d2l.ai/chapter_convolutional-modern/resnet.html)。
+3. 《Practical Deep Learning for Coders》的 [14.2 Building a Modern CNN: ResNet](https://fastai.github.io/fastbook2e/resnet.html#building-a-modern-cnn-resnet)。
+
