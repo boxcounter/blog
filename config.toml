@@ -10,13 +10,13 @@ googleAnalytics = "UA-1017426-4"
   plainIDAnchors = true
   extensions = ["hardLineBreak"]
 
-[author]
-  name = "Boxcounter"
-  homepage = "http://boxcounter.com/"
-
 [params]
+  mainSections = ["posts"]
+  headTitle = "Boxcounter's blog"
   math = true
   #disqus = "boxcounter"
+  author = "Boxcounter"
+  homepage = "http://boxcounter.com/"
 
 [markup]
   [markup.highlight]
@@ -34,4 +34,4 @@ googleAnalytics = "UA-1017426-4"
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
-          inline = [['\(', '\)']]
+          inline = [['\(', '\)'], ['$$', '$$']]
