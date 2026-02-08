@@ -63,11 +63,11 @@ date: 2026-02-08
 
 坦诚和友善是美德，这不言而喻。
 
-同时，它们也是高明的利己策略 —— 我们常常过高地估计了个人才华对于取得成绩的影响，而低估了外部因素起到的作用，比如他人的帮助。
+同时，它们也是睿智的利己策略 —— 我们常常过高地估计了个人才华对于取得成绩的影响，而低估了外部因素起到的作用，比如他人的帮助。
 
 待人以诚善能让我们留在别人的善意圈里。这样，我们更容易获得帮助，也就更容易成功。
 
-书中一个触动我的小故事 —— 你永远不知道智慧会以什么面貌出现：
+书中一个触动我的小故事 —— 你永远不知道智慧和帮助会以什么面貌出现：
 
 > Kevin Costner, one of the greatest and most successful actors of modern times, once told a story that stopped me in my tracks.
 >
@@ -92,7 +92,12 @@ date: 2026-02-08
 >
 > It went on to be a blockbuster. The film adaptation won seven Academy Awards and catapulted Costner’s career into superstardom.”
 
-下面几个片段写得太好了，无论我怎么理解和转述，都难以企及作者的表达，就原文附上：
+两个参考链接：
+- [Kevin Costner on His Beautiful Friendship | #shorts - YouTube](https://www.youtube.com/shorts/kDPoui4qvio)  
+- [Dances with Wolves (1990) - IMDb](https://www.imdb.com/title/tt0099348/)
+
+
+还有几个由此延伸的片段写得太好了，无论我怎么理解和转述，都难以企及作者的表达，就原文附上：
 
 > The Luckier You Are, the Nicer You Should Be.
 
