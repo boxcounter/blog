@@ -41,10 +41,10 @@ isCJKLanguage   : true
 
 而原作者（Stephen R. Covey）的阐述方式更多元一些：
 
-> Although Habit 2 applies to many diАerent circumstances and levels of life, the most fundamental application of “begin with the end in mind” is to begin today with **the image, picture, or paradigm of the end** of your life as your frame of reference or the criterion by which everything else is examined.
+> Although Habit 2 applies to many different circumstances and levels of life, the most fundamental application of “begin with the end in mind” is to begin today with **the image, picture, or paradigm of the end** of your life as your frame of reference or the criterion by which everything else is examined.
 
 > To begin with the end in mind means to start with a clear understanding of your **destination**. It means to know where you’re going so that you better understand where you are now and so that the steps you take are always in the right direction.）
 
-> For another example, look at a business. If you want to have a successful enterprise, you clearly define **what you’re trying to accomplish**. You carefully think through the product or service you want to provide in terms of your market target, then you organize all the elements—Йnancial, research and development, operations, marketing, personnel, physical facilities, and so on—to meet that objective.
+> For another example, look at a business. If you want to have a successful enterprise, you clearly define **what you’re trying to accomplish**. You carefully think through the product or service you want to provide in terms of your market target, then you organize all the elements — financial, research and development, operations, marketing, personnel, physical facilities, and so on — to meet that objective.
 
 回头看我和媳妇的讨论，如老话所言“作品发表出来之后，就属于读者了”、“作品会经过两次创作，一次是原作者，另一次是读者”：我在还没有读到作者如何定义‘以终为始’的时候就已经展开了解读和发散，洋洋洒洒了那么多。
