@@ -4,7 +4,7 @@ date: 2026-02-08
 ---
 
 {{< figure
-  src="images/cover.jpeg"
+  src="images/cover.jpg"
   alt="The Art of Spending Money, by Morgan Housel"
   width=300
 >}}
